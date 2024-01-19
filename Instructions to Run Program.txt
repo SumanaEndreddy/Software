@@ -1,0 +1,8 @@
+Instructions for Running the program:
+Step 1: Navigate to the directory /home/student1/vm-csc415/assignment1
+Step 2: Type ls to see the input files and the source code
+Step 3: Open Assignment1.rb in visual stuido code
+Step 4: After opening the file in the VS code, open the VS code terminal and type the following:
+        ruby Assignment1.rb ./courses_offered.csv ./student_requests.csv
+Step 5: Then, hit enter
+Step 6: The three output files will be generated and display the summary of the enrollment plan as well.

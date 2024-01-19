@@ -1,0 +1,17 @@
+============Known bugs, issues or limitations=================
+
+I believe the program is working fine and that there are no bugs or issues. 
+As of now, when I execute the code using the input files I created, 
+the number of students and the number of course sections that can be run, 
+both of which are included in output text file 3, displays 0 as a value. 
+Zero would have not been displayed if I had added more data to the input files.
+
+Names of the input files I created are:
+1. StudentsRequests.csv
+2. Courses_Sections.csv
+
+
+
+
+
+
